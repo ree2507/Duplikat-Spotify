@@ -1,2 +1,6 @@
 # Duplikat-Spotify
-Website tiruan dari aplikasi Spotify
+Status: BELUM SELESAI- TIDAK RESPONSIF
+
+Bahasa yang digunakan: html css
+
+Framework: -
